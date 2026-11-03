@@ -1,0 +1,32 @@
+{
+  "paging": {
+    "page": 1,
+    "count": 1,
+    "maxPage": 1,
+    "itemsTotal": 1
+  },
+  "packages": [
+    {
+      "id": "com.tailscale.webos",
+      "title": "Tailscale",
+      "iconUri": "https://raw.githubusercontent.com/neon1301/tailscale-webos/2f600cfd2e81525f7357031d4a5dd335774077f8/tailscale_build/app/largeIcon.png",
+      "manifest": {
+        "id": "com.tailscale.webos",
+        "version": "1.104.8",
+        "type": "web",
+        "title": "Tailscale",
+        "appDescription": "Unofficial Tailscale client for LG webOS by neon1301. Bundles official Tailscale binaries.",
+        "iconUri": "https://raw.githubusercontent.com/neon1301/tailscale-webos/2f600cfd2e81525f7357031d4a5dd335774077f8/tailscale_build/app/largeIcon.png",
+        "sourceUrl": "https://github.com/neon1301/tailscale-webos",
+        "rootRequired": false,
+        "ipkUrl": "https://github.com/neon1301/tailscale-webos/releases/download/v1.104.8/com.tailscale.webos_1.104.8_all.ipk",
+        "ipkHash": {
+          "sha256": "be5ad477d0f0c28ed830bdef46159674288531e0a762649fd2124cc04d168b6a"
+        },
+        "ipkSize": 35841488
+      },
+      "pool": "main",
+      "shortDescription": "Unofficial Tailscale client for LG webOS."
+    }
+  ]
+}
