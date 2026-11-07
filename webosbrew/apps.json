@@ -12,18 +12,18 @@
       "iconUri": "https://raw.githubusercontent.com/neon1301/tailscale-webos/2f600cfd2e81525f7357031d4a5dd335774077f8/tailscale_build/app/largeIcon.png",
       "manifest": {
         "id": "com.tailscale.webos",
-        "version": "1.104.82",
+        "version": "1.104.80",
         "type": "web",
         "title": "Tailscale",
-        "appDescription": "Unofficial Tailscale client for LG webOS by neon1301, Italian UI, service rewritten for webOS 4 (no child_process). Bundles official Tailscale binaries.",
+        "appDescription": "Unofficial Tailscale client for LG webOS by neon1301, Italian UI translation. Bundles official Tailscale binaries.",
         "iconUri": "https://raw.githubusercontent.com/neon1301/tailscale-webos/2f600cfd2e81525f7357031d4a5dd335774077f8/tailscale_build/app/largeIcon.png",
         "sourceUrl": "https://github.com/neon1301/tailscale-webos",
-        "rootRequired": true,
-        "ipkUrl": "https://github.com/Ture919/webos-repo/releases/download/v1.104.82-it/com.tailscale.webos_1.104.82_all.ipk",
+        "rootRequired": false,
+        "ipkUrl": "https://github.com/Ture919/webos-repo/releases/download/v1.104.80-it/com.tailscale.webos_1.104.80_all.ipk",
         "ipkHash": {
-          "sha256": "d2afd5879f4777f08bc3d0e8d215610c19140040ca82332c190340788e736fa9"
+          "sha256": "4e70384c8609993ef10d8b7ac54dfb28f71b6cbca5a239f77df2114dcd45c8ee"
         },
-        "ipkSize": 35848448
+        "ipkSize": 35848038
       },
       "pool": "main",
       "shortDescription": "Tailscale per LG webOS, interfaccia in italiano."
