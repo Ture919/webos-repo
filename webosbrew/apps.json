@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 1,
+    "count": 2,
     "maxPage": 1,
-    "itemsTotal": 1
+    "itemsTotal": 2
   },
   "packages": [
     {
@@ -27,6 +27,28 @@
       },
       "pool": "main",
       "shortDescription": "Tailscale per LG webOS, interfaccia in italiano."
+    },
+    {
+      "id": "io.github.rorygallagher2024.lg-webos-dashboard",
+      "title": "Glasshouse",
+      "iconUri": "https://raw.githubusercontent.com/rorygallagher2024/glasshouse/v0.156.0/server/assets/dashboard-app/assets/icon130.png",
+      "manifest": {
+        "id": "io.github.rorygallagher2024.lg-webos-dashboard",
+        "version": "0.156.0",
+        "type": "web",
+        "title": "Glasshouse",
+        "appDescription": "Own the glass. Dashboard, privacy controls and Home Assistant bridge for rooted LG TVs (rorygallagher2024, MIT).",
+        "iconUri": "https://raw.githubusercontent.com/rorygallagher2024/glasshouse/v0.156.0/server/assets/dashboard-app/assets/icon130.png",
+        "sourceUrl": "https://github.com/rorygallagher2024/glasshouse",
+        "rootRequired": true,
+        "ipkUrl": "https://github.com/rorygallagher2024/glasshouse/releases/download/v0.156.0/io.github.rorygallagher2024.lg-webos-dashboard_0.156.0_all.ipk",
+        "ipkHash": {
+          "sha256": "a05266d4ddc9eef0c382074f1a40d0c5d794ddec7385d5429f03cff012829b80"
+        },
+        "ipkSize": 2626074
+      },
+      "pool": "main",
+      "shortDescription": "Pannello per TV LG sbloccate: privacy, pubblicità LG, cura OLED (pacchetto ufficiale)."
     }
   ]
 }
