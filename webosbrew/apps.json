@@ -53,21 +53,21 @@
     {
       "id": "com.ture919.aggiornaprime",
       "title": "Aggiorna Prime",
-      "iconUri": "https://github.com/Ture919/webos-repo/releases/download/aggiornaprime-1.0.1/aggiornaprime_icona_130.png",
+      "iconUri": "https://github.com/Ture919/webos-repo/releases/download/aggiornaprime-1.0.2/aggiornaprime_icona_130.png",
       "manifest": {
         "id": "com.ture919.aggiornaprime",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "type": "web",
         "title": "Aggiorna Prime",
-        "appDescription": "Aggiorna AmazOff (Prime senza pubblicita') dal catalogo samoz83, controlla a ogni accensione e ogni 24 ore, chiude Prime, avvisa sullo schermo e torna alla home.",
-        "iconUri": "https://github.com/Ture919/webos-repo/releases/download/aggiornaprime-1.0.1/aggiornaprime_icona_130.png",
+        "appDescription": "Aggiorna AmazOff (Prime senza pubblicita') dal catalogo samoz83, controlla a ogni accensione e ogni 24 ore, chiude Prime, avvisa sullo schermo e torna dove eri.",
+        "iconUri": "https://github.com/Ture919/webos-repo/releases/download/aggiornaprime-1.0.2/aggiornaprime_icona_130.png",
         "sourceUrl": "https://github.com/Ture919/webos-repo",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/Ture919/webos-repo/releases/download/aggiornaprime-1.0.1/com.ture919.aggiornaprime_1.0.1_all.ipk",
+        "ipkUrl": "https://github.com/Ture919/webos-repo/releases/download/aggiornaprime-1.0.2/com.ture919.aggiornaprime_1.0.2_all.ipk",
         "ipkHash": {
-          "sha256": "c9aebd08503cb3a2c1e00c3c93ff77edaa02c5a6e8adc7d63532bda6d68efb3c"
+          "sha256": "9876eeaf80564e74b8646e0789d29fded93873da9c638b64c75df91641f0e952"
         },
-        "ipkSize": 25406
+        "ipkSize": 25774
       },
       "pool": "main",
       "shortDescription": "Tiene aggiornato AmazOff: un tasto sulla TV e controllo automatico."
