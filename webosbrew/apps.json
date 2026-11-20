@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 3,
+    "count": 4,
     "maxPage": 1,
-    "itemsTotal": 3
+    "itemsTotal": 4
   },
   "packages": [
     {
@@ -71,6 +71,28 @@
       },
       "pool": "main",
       "shortDescription": "Tiene aggiornato AmazOff: un tasto sulla TV e controllo automatico."
+    },
+    {
+      "id": "com.ture919.speedtest",
+      "title": "Speedtest",
+      "iconUri": "https://github.com/Ture919/webos-repo/releases/download/speedtest-1.0.0/speedtest_icona_130.png",
+      "manifest": {
+        "id": "com.ture919.speedtest",
+        "version": "1.0.0",
+        "type": "web",
+        "title": "Speedtest",
+        "appDescription": "Speedtest ufficiale di Ookla (Speedtest CLI) per TV LG sbloccate, anche webOS 4: lanciato da root tramite Homebrew Channel, senza servizio Node. Download, upload, ping, jitter, pacchetti persi.",
+        "iconUri": "https://github.com/Ture919/webos-repo/releases/download/speedtest-1.0.0/speedtest_icona_130.png",
+        "sourceUrl": "https://github.com/Ture919/webos-repo",
+        "rootRequired": true,
+        "ipkUrl": "https://github.com/Ture919/webos-repo/releases/download/speedtest-1.0.0/com.ture919.speedtest_1.0.0_all.ipk",
+        "ipkHash": {
+          "sha256": "f80371e58a8cfffdec606bf2ae132f120cd72fcec886e37ee52f3bc582c4dc17"
+        },
+        "ipkSize": 22638
+      },
+      "pool": "main",
+      "shortDescription": "Speedtest di Ookla che funziona anche sul webOS 4 (C9)."
     }
   ]
 }
