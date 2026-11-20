@@ -75,21 +75,21 @@
     {
       "id": "com.ture919.speedtest",
       "title": "Speedtest",
-      "iconUri": "https://github.com/Ture919/webos-repo/releases/download/speedtest-1.0.1/speedtest_icona_130.png",
+      "iconUri": "https://github.com/Ture919/webos-repo/releases/download/speedtest-1.0.2/speedtest_icona_130.png",
       "manifest": {
         "id": "com.ture919.speedtest",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "type": "web",
         "title": "Speedtest",
         "appDescription": "Speedtest ufficiale di Ookla (Speedtest CLI) per TV LG sbloccate, anche webOS 4: lanciato da root tramite Homebrew Channel, senza servizio Node. Download, upload, ping, jitter, pacchetti persi.",
-        "iconUri": "https://github.com/Ture919/webos-repo/releases/download/speedtest-1.0.1/speedtest_icona_130.png",
+        "iconUri": "https://github.com/Ture919/webos-repo/releases/download/speedtest-1.0.2/speedtest_icona_130.png",
         "sourceUrl": "https://github.com/Ture919/webos-repo",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/Ture919/webos-repo/releases/download/speedtest-1.0.1/com.ture919.speedtest_1.0.1_all.ipk",
+        "ipkUrl": "https://github.com/Ture919/webos-repo/releases/download/speedtest-1.0.2/com.ture919.speedtest_1.0.2_all.ipk",
         "ipkHash": {
-          "sha256": "6e222e27c85963f021eee9b16c916da52809ce1c34a3c1470818a6387ad963d9"
+          "sha256": "ec3c07e937e92c335a1192c1303f2c0675e593319286d8de229a9a0acf3ec0f2"
         },
-        "ipkSize": 22918
+        "ipkSize": 23088
       },
       "pool": "main",
       "shortDescription": "Speedtest di Ookla che funziona anche sul webOS 4 (C9)."
