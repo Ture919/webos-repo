@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 2,
+    "count": 3,
     "maxPage": 1,
-    "itemsTotal": 2
+    "itemsTotal": 3
   },
   "packages": [
     {
@@ -31,24 +31,46 @@
     {
       "id": "io.github.rorygallagher2024.lg-webos-dashboard",
       "title": "Glasshouse",
-      "iconUri": "https://raw.githubusercontent.com/rorygallagher2024/glasshouse/v0.156.0/server/assets/dashboard-app/assets/icon130.png",
+      "iconUri": "https://raw.githubusercontent.com/rorygallagher2024/glasshouse/v0.157.1/server/assets/dashboard-app/assets/icon130.png",
       "manifest": {
         "id": "io.github.rorygallagher2024.lg-webos-dashboard",
-        "version": "0.156.0",
+        "version": "0.157.1",
         "type": "web",
         "title": "Glasshouse",
         "appDescription": "Own the glass. Dashboard, privacy controls and Home Assistant bridge for rooted LG TVs (rorygallagher2024, MIT).",
-        "iconUri": "https://raw.githubusercontent.com/rorygallagher2024/glasshouse/v0.156.0/server/assets/dashboard-app/assets/icon130.png",
+        "iconUri": "https://raw.githubusercontent.com/rorygallagher2024/glasshouse/v0.157.1/server/assets/dashboard-app/assets/icon130.png",
         "sourceUrl": "https://github.com/rorygallagher2024/glasshouse",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/rorygallagher2024/glasshouse/releases/download/v0.156.0/io.github.rorygallagher2024.lg-webos-dashboard_0.156.0_all.ipk",
+        "ipkUrl": "https://github.com/rorygallagher2024/glasshouse/releases/download/v0.157.1/io.github.rorygallagher2024.lg-webos-dashboard_0.157.1_all.ipk",
         "ipkHash": {
-          "sha256": "a05266d4ddc9eef0c382074f1a40d0c5d794ddec7385d5429f03cff012829b80"
+          "sha256": "190f754f9321199e4005651a2d43d99b182dc241583b31123d9d4fa8c258a89c"
         },
-        "ipkSize": 2626074
+        "ipkSize": 2786420
       },
       "pool": "main",
       "shortDescription": "Pannello per TV LG sbloccate: privacy, pubblicità LG, cura OLED (pacchetto ufficiale)."
+    },
+    {
+      "id": "com.ture919.aggiornaprime",
+      "title": "Aggiorna Prime",
+      "iconUri": "https://github.com/Ture919/webos-repo/releases/download/aggiornaprime-1.0.0/aggiornaprime_icona_130.png",
+      "manifest": {
+        "id": "com.ture919.aggiornaprime",
+        "version": "1.0.0",
+        "type": "web",
+        "title": "Aggiorna Prime",
+        "appDescription": "Aggiorna AmazOff (Prime senza pubblicita') dal catalogo samoz83, controlla all'avvio e ogni 3 ore, chiude Prime e avvisa sullo schermo.",
+        "iconUri": "https://github.com/Ture919/webos-repo/releases/download/aggiornaprime-1.0.0/aggiornaprime_icona_130.png",
+        "sourceUrl": "https://github.com/Ture919/webos-repo",
+        "rootRequired": true,
+        "ipkUrl": "https://github.com/Ture919/webos-repo/releases/download/aggiornaprime-1.0.0/com.ture919.aggiornaprime_1.0.0_all.ipk",
+        "ipkHash": {
+          "sha256": "44b36b3c606b58ca5bc731a68336557d27beba7f951101a18bd131d2d87d0cb7"
+        },
+        "ipkSize": 22608
+      },
+      "pool": "main",
+      "shortDescription": "Tiene aggiornato AmazOff: un tasto sulla TV e controllo automatico."
     }
   ]
 }
