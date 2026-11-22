@@ -12,18 +12,18 @@
       "iconUri": "https://raw.githubusercontent.com/neon1301/tailscale-webos/2f600cfd2e81525f7357031d4a5dd335774077f8/tailscale_build/app/largeIcon.png",
       "manifest": {
         "id": "com.tailscale.webos",
-        "version": "1.104.82",
+        "version": "1.104.84",
         "type": "web",
         "title": "Tailscale",
         "appDescription": "Unofficial Tailscale client for LG webOS by neon1301, Italian UI, service rewritten for webOS 4 (no child_process). Bundles official Tailscale binaries.",
         "iconUri": "https://raw.githubusercontent.com/neon1301/tailscale-webos/2f600cfd2e81525f7357031d4a5dd335774077f8/tailscale_build/app/largeIcon.png",
         "sourceUrl": "https://github.com/neon1301/tailscale-webos",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/Ture919/webos-repo/releases/download/v1.104.82-it/com.tailscale.webos_1.104.82_all.ipk",
+        "ipkUrl": "https://github.com/Ture919/webos-repo/releases/download/v1.104.84-it/com.tailscale.webos_1.104.84_all.ipk",
         "ipkHash": {
-          "sha256": "d2afd5879f4777f08bc3d0e8d215610c19140040ca82332c190340788e736fa9"
+          "sha256": "3b840508153859d4b20ed5efeba56137cb2672742624d96dc2ffc9b4fb2c963d"
         },
-        "ipkSize": 35848448
+        "ipkSize": 35849188
       },
       "pool": "main",
       "shortDescription": "Tailscale per LG webOS, interfaccia in italiano."
@@ -75,21 +75,21 @@
     {
       "id": "com.ture919.speedtest",
       "title": "Speedtest",
-      "iconUri": "https://github.com/Ture919/webos-repo/releases/download/speedtest-1.1.0/speedtest_icona_130.png",
+      "iconUri": "https://github.com/Ture919/webos-repo/releases/download/speedtest-1.1.1/speedtest_icona_130.png",
       "manifest": {
         "id": "com.ture919.speedtest",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "type": "web",
         "title": "Speedtest",
         "appDescription": "Speedtest ufficiale di Ookla (Speedtest CLI) per TV LG sbloccate, anche webOS 4, con interfaccia in stile speedtest.net: tachimetro animato, ping, download, upload, rete e server. Lanciato da root tramite Homebrew Channel, senza servizio Node.",
-        "iconUri": "https://github.com/Ture919/webos-repo/releases/download/speedtest-1.1.0/speedtest_icona_130.png",
+        "iconUri": "https://github.com/Ture919/webos-repo/releases/download/speedtest-1.1.1/speedtest_icona_130.png",
         "sourceUrl": "https://github.com/Ture919/webos-repo",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/Ture919/webos-repo/releases/download/speedtest-1.1.0/com.ture919.speedtest_1.1.0_all.ipk",
+        "ipkUrl": "https://github.com/Ture919/webos-repo/releases/download/speedtest-1.1.1/com.ture919.speedtest_1.1.1_all.ipk",
         "ipkHash": {
-          "sha256": "a4800a860c0563bc0d54277825dd9f2afa17018d46479dd6b25de6c598af6479"
+          "sha256": "9ce4b096fc5e1f614744dda6de63e52a83321f402272ab8a8ad1bac3e13b66f5"
         },
-        "ipkSize": 28128
+        "ipkSize": 28412
       },
       "pool": "main",
       "shortDescription": "Speedtest di Ookla che funziona anche sul webOS 4 (C9)."
