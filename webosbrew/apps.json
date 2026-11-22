@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 4,
+    "count": 5,
     "maxPage": 1,
-    "itemsTotal": 4
+    "itemsTotal": 5
   },
   "packages": [
     {
@@ -93,6 +93,29 @@
       },
       "pool": "main",
       "shortDescription": "Speedtest di Ookla che funziona anche sul webOS 4 (C9)."
+    },
+    {
+      "id": "com.retroarch.webos",
+      "title": "RetroArch",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/com.retroarch.webos.png",
+      "manifest": {
+        "id": "com.retroarch.webos",
+        "version": "1.22.2",
+        "type": "native",
+        "title": "RetroArch",
+        "appDescription": "RetroArch ufficiale di webosbrew, build GLES 3 per webOS 4.10 e superiori (es. LG C9). Il catalogo ufficiale distribuisce la build GLES 2.",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/com.retroarch.webos.png",
+        "sourceUrl": "https://github.com/webosbrew/RetroArch",
+        "ipkUrl": "https://github.com/webosbrew/RetroArch/releases/download/v1.22.2/com.retroarch.webos.gles3_1.22.2_arm.ipk",
+        "ipkHash": {
+          "sha256": "28a5d0fdbdea829f40cbc93d72bfd895d31ebfa5acfa820552e2157869d37f42"
+        },
+        "ipkSize": 4659066,
+        "installedSize": 13379941
+      },
+      "pool": "main",
+      "shortDescription": "RetroArch, build GLES 3 (webOS 4.10+)",
+      "fullDescriptionUrl": "apps/com.retroarch.webos/full_description.html"
     }
   ]
 }
